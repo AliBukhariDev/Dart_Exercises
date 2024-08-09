@@ -1,16 +1,20 @@
-# dart_exercises
+# Dart Exercises
 
-A new Flutter project.
+Welcome to the **Dart Exercises** repository! This project is a collection of practice exercises designed to help you improve your Dart programming skills, particularly in handling lists and JSON data.
 
-## Getting Started
+You can download the exercise PDFs below:
 
-This project is a starting point for a Flutter application.
+- [Exercise 1](docs/exercise1.pdf)
+- [Exercise 2](docs/exercise2.pdf)
+- [Exercise 3](docs/exercise3.pdf)
+- [Exercise 4](docs/exercise4.pdf)
+- [Exercise 5](docs/exercise5.pdf)
+- [Exercise 6](docs/exercise6.pdf)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **List Manipulation:** Practice with lists, including adding, removing, and accessing elements.
+- **JSON Handling:** Learn how to parse and manipulate JSON data in Dart.
+- **Value Extraction:** Exercises on retrieving specific values from JSON objects.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
